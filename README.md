@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="cat_scholar.jpeg" alt="吾乃知食分子" width="180" />
+  <img src="cat.png" alt="Cat" width="180" />
 </p>
 
 <p align="center">
