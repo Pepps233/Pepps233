@@ -22,11 +22,20 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Currently working on <a href="https://www.luntrahub.com/"><b>Luntrahub</b></a>
-  <br />
-  Looking to collaborate on <a href="https://github.com/Pepps233/OverlayStudio"><b>Overlay Studio</b></a>
-  <br />
-  Learning in <b>Full Stack & AI Development</b>
+  Hi, I'm Jay, and I have some cool ideas.
+</p>
+
+<p align="center">
+  <img src="cat_scholar.jpeg" alt="吾乃知食分子" width="180" />
+</p>
+
+<p align="center">
+  Currently working on <b>ThinkGraph AI</b>
+  <br /><br />
+  <b>Previously worked on:</b><br />
+  <a href="https://www.luntrahub.com/"><b>Luntrahub</b></a> — AI powered tutor finder and study buddy matching<br />
+  <a href="https://github.com/Pepps233/OverlayStudio"><b>Overlay Studio</b></a> — custom LinkedIn banner creator where you can put cosmetics on banner pets<br />
+  <a href="https://opiral.com"><b>Opiral AI</b></a> — 1 click resume upload to get matched to all labs at Purdue University
 </p>
 
 <hr />
