@@ -22,7 +22,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Hi, I'm Jay, and I have some cool ideas.
+  I have some cool ideas
 </p>
 
 <p align="center">
