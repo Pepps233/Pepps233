@@ -34,7 +34,7 @@
   <br /><br />
   <b>Previously worked on:</b><br />
   <a href="https://www.luntrahub.com/" target="_blank"><b>Luntrahub</b></a> — An AI-powered tutor finder and study buddy matching platform<br />
-  <a href="https://pepps233.github.io/OverlayStudio/" target="_blank"><b>Overlay Studio</b></a> — A custom LinkedIn banner creator where you can put cosmetics on banner pets<br />
+  <a href="https://pepps233.github.io/OverlayStudio/" target="_blank"><b>Overlay Studio</b></a> — A custom LinkedIn banner creator that lets you dress up banner pets with cosmetics<br />
   <a href="https://opiral.com" target="_blank"><b>Opiral AI</b></a> — A one-click resume upload tool to get matched to all labs at Purdue University
 </p>
 
