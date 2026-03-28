@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  Currently working on <b>ThinkGraph AI</b>
+  Currently working on <b>ThinkGraph AI</b> and <b>Mendify Agent</b>
   <br /><br />
   <b>Previously worked on:</b><br />
   <a href="https://www.luntrahub.com/" target="_blank"><b>Luntrahub</b></a> — An AI-powered tutor finder and study buddy matching platform<br />
